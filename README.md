@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TWScore/logo/blob/master/TWScore.png?raw=true">
+  <img src="https://github.com/TWScore/Logo/blob/master/TWScore.png?raw=true">
 </p>
 
 # Logo
